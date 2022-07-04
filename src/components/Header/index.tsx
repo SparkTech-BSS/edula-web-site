@@ -38,7 +38,7 @@ const Header: React.FC = () => {
             <li>
               <Link href="#about">
                 <a className="link">
-                  <span>Sobe</span>
+                  <span>Sobre</span>
                 </a>
               </Link>
             </li>

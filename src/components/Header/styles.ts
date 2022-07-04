@@ -18,7 +18,7 @@ export const Container = styled.section`
   background: ${(props) => props.theme.colors.secondary};
   height: 100%;
 
-  min-height: 80rem;
+  min-height: 90rem;
 
   @media (max-width: 768px) {
     min-height: 65rem;
