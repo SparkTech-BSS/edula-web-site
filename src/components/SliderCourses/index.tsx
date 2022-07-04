@@ -1,9 +1,9 @@
-import React from 'react';
+import React from 'react'
 
-import { Container } from './styles';
+import { Container } from './styles'
 
 const SliderCourses: React.FC = () => {
-  return <div />;
+  return <div />
 }
 
-export default SliderCourses;
+export default SliderCourses
